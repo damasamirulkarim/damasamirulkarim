@@ -1,8 +1,8 @@
 ### Hi there 👋 my name is Damas
 
-**damasdev/damasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer** with 3+ years of experience in programming and software development for various project.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on kodedasar.com
 - 🌱 I’m currently learning Software Develepment
