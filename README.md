@@ -4,5 +4,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on kodedasar.com
-- 🌱 I’m currently learning Software Develepment
+- 🔭 I’m currently working on [kodedasar.com](https://kodedasar.com)
+- 🌱 I’m currently learning Software Development
