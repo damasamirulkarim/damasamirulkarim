@@ -4,7 +4,7 @@ Saya adalah software developer dan konten kreator yang tertarik pada dunia pemro
 
 Saat ini saya sedang mengembangkan:
 - Channel Youtube: [Javascript Developer Indonesia](https://www.youtube.com/channel/UCoAyv7fY3qEElFvulEmRN0A/about)
-- Website: [kodedasar.com](https://kodedasar.com)
+- Website: [Belajar Bahasa Pemrograman dari Nol](https://kodedasar.com)
 
 Teknologi yang saya gunakan saat ini adalah:
 - PHP (Codeigniter, Laravel)
