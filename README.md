@@ -7,5 +7,5 @@ Saat ini saya sedang mengembangkan:
 - Website: [kodedasar.com](https://kodedasar.com)
 
 Teknologi yang saya gunakan saat ini adalah:
-- PHP (Lumen, Laravel)
-- Javascript (VueJS, NuxtJS, Express JS)
+- PHP (Lumen dan Laravel)
+- Javascript (VueJS dan Express JS)
