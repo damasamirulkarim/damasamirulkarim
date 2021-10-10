@@ -1,17 +1,17 @@
 ## 👋 Tentang Saya
 
-Hai semuanya, perkenalkan nama saya `Damas Amirul Karim`
+Hai semuanya, perkenalkan nama saya `Damas Amirul Karim`.
 
 ```ts
 const damasdev = () => {
   return {
     nama: "Damas Amirul Karim",
-    teknologi:{
+    teknologi: {
         backend: ["PHP", "Laravel", "Lumen", "NodeJS"],
         frontend: ["Bootstrap", "Tailwind CSS"],
         database: ["MySQL", "MongoDB"],
     },
-    media:{
+    media: {
         linkedin : "https://www.linkedin.com/in/damasamirulkarim",
         twitter : "https://twitter.com/damasdev"
     },
@@ -19,11 +19,11 @@ const damasdev = () => {
 }
 ```
 
+Saya adalah Software Developer dan Content Creator yang tertarik pada dunia pemrograman.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=damasdev&theme=dracula&no-frame=true)](https://github.com/damasdev)
 
 ---
-
-Saya adalah Software Developer dan Content Creator yang tertarik pada dunia pemrograman.
 
 Saat ini saya sedang mengembangkan:
 - Channel Youtube: [Javascript Indonesia](https://www.youtube.com/channel/UCoAyv7fY3qEElFvulEmRN0A/about)
