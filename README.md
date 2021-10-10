@@ -1,6 +1,6 @@
 ## 👋 Tentang Saya
 
-Hai semuanya, perkenalkan nama saya Damas Amirul Karim.
+Hai semuanya, perkenalkan nama saya `Damas Amirul Karim`
 
 ```ts
 const damasdev = () => {
