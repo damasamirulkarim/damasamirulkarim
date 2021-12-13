@@ -7,9 +7,8 @@ const damasdev = () => {
   return {
     nama: "Damas Amirul Karim",
     teknologi: {
-        server: ["PHP", "Laravel", "Lumen", "Node.js", "Express"],
-        client: ["Javascript", "Vue"],
-        style: ["Bootstrap", "Tailwind CSS"],
+        pemrograman: ["PHP", "Node.js", "Javascript"],
+        framework: ["Laravel", "Lumen", "Vue", "Express"],
         database: ["MySQL", "MariaDB", "PostgreSQL", "MongoDB"],
     },
     media: {
