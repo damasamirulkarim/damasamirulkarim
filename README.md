@@ -7,8 +7,8 @@ const damasdev = () => {
   return {
     nama: "Damas Amirul Karim",
     teknologi: {
-        pemrograman: ["PHP", "Node.js", "Javascript"],
-        framework: ["Laravel", "Lumen", "Vue", "Express"],
+        pemrograman: ["PHP", "Javascript", "Node.js"],
+        framework: ["Laravel", "Vue", "Express"],
         database: ["MySQL", "MariaDB", "PostgreSQL", "MongoDB"],
     },
     media: {
@@ -18,5 +18,3 @@ const damasdev = () => {
   }
 }
 ```
-
-Saya adalah Software Developer dan Content Creator yang tertarik pada dunia pemrograman.
