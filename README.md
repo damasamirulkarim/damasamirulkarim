@@ -5,9 +5,9 @@ Hai semuanya, perkenalkan nama saya Damas Amirul Karim.
 ```ts
 const damasdev = () => {
   return {
-    name: "Damas Amirul Karim",
-    backend: {
-        languange: ["PHP", "Javascript", "Typescript", "Golang"],
+    nama: "Damas Amirul Karim",
+    teknologi: {
+        pemrograman: ["PHP", "Javascript", "Typescript", "Golang"],
         database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
     },
     social: {
@@ -20,14 +20,10 @@ const damasdev = () => {
 
 Saat ini saya bekerja sebagai backend engineer untuk salah satu startup di Indonesia.
 
-Disela kesibukan, saya biasa meluangkan waktu untuk:
-- Membuat Konten Artikel dan Video
-- Menulis Kode Terbuka
+## 🛠 Skills
+PHP, Javascript, Typescript, Golang, MySQL, PostgreSQL, MongoDB, Redis, GIT
 
----
-
-Ada waktu, biaya dan tenaga yang perlu saya investasikan untuk membuat karya.
-
-Maka dari itu:
-
-Dukungan teman-teman semua sangatlah berarti untuk saya. 🤝
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kodedasar.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damasamirulkarim)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/damasdev)
