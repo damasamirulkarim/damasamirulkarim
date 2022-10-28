@@ -18,7 +18,7 @@ const damasdev = () => {
 }
 ```
 
-Saat ini saya bekerja sebagai backend engineer untuk salah satu startup di Indonesia.
+Saat ini saya bekerja sebagai web developer untuk salah satu startup di Indonesia.
 
 ## 🚀 Support
 - [GitHub Sponsors](https://github.com/sponsors/damasdev)
