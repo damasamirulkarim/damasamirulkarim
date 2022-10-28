@@ -20,6 +20,10 @@ const damasdev = () => {
 
 Saat ini saya bekerja sebagai backend engineer untuk salah satu startup di Indonesia.
 
+## 🚀 Support
+- [GitHub Sponsors](https://github.com/sponsors/damasdev)
+- [Trakteer](https://trakteer.id/codewithdamas/tip) 
+
 ## 🛠 Skills
 PHP, Javascript, Typescript, Golang, MySQL, PostgreSQL, MongoDB, Redis, GIT
 
