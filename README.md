@@ -7,7 +7,7 @@ const damasdev = () => {
   return {
     nama: "Damas Amirul Karim",
     teknologi: {
-        pemrograman: ["PHP", "Javascript", "Typescript", "Golang"],
+        pemrograman: ["PHP", "Javascript", "Golang"],
         database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
     },
     social: {
