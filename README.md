@@ -1,8 +1,7 @@
 # Hi, I'm Damas Amirul Karim ✋🏻
 
-I'm a Software Engineer with a strong focus on backend engineering. I spend most of my time coding and exploring new technologies.
+I'm a Software Engineer with a strong focus on backend engineering. I spend most of my time coding and exploring new technologies. As part of my learning journey, I started writing blog articles to solidify my knowledge:
 
-As part of my learning journey, I started writing blog articles to solidify my knowledge:
 - [https://damasamirulkarim.dev](https://damasamirulkarim.dev)
 
 ---
